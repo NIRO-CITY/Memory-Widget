@@ -1,2 +1,2 @@
 # Memory-Widget
-Source code for memory widget - INM363 Project
+Source code for Memory Widget - INM363 Project
